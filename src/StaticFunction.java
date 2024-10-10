@@ -10,7 +10,6 @@ class Student1{
          rollno++;
         this.name="Gagandeep Singh";
         this.address="2456 brampton";
-        this.age = 27;
 
     }
     Student1 (String name,String address,String email){
